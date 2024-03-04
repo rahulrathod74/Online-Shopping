@@ -1,0 +1,29 @@
+.slideshow-container{
+    position: relative;
+    display: flex;
+    
+}
+.prevthird{
+    position: absolute;
+    top: 33px;
+    left: 1.5px;
+    font-size: 36px;
+    background-color:white;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.nextthird{
+    position: absolute;
+    top: 33px;
+    right: 1.5px;
+    font-size: 36px;
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    
+}
+.mypoint img{
+    width: 100%;
+}

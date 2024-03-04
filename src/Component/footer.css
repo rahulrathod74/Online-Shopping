@@ -1,0 +1,72 @@
+.mainfooter{
+    padding: 20px 90px 20px ;
+    background-color: #003380;
+}
+.foot{
+    display: flex;
+    justify-content: space-between;
+    
+    color: white;
+}
+.foot .ulstyle {
+    line-height: 30px;
+    list-style: none;
+}
+.footer-heading{
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+.ulstyle li{
+    font-size: 18px;
+}
+.some{
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    margin-top: 40px;
+}
+.icon-style ,.images{
+    display: flex;
+    gap: 10px;
+    list-style: none;
+    padding-top: 10px; 
+}
+.images li{
+    width: 14%;
+}
+.images img{
+    width: 100%;
+}
+.lastfoot{
+    background-color: #0a244a;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+.para{
+    color: white;
+    font-size: 18px;
+    padding: 10px 0 0 0;
+}
+.hd{
+    width: 80px;
+    height: 1px;
+    margin: 0 auto;
+    color: white;
+}
+.para2{
+   padding: 5px 40px 5px 40px;
+   color: white;
+}
+.df{
+    height: 0.1px;
+    color: white;
+}
+.para3{
+    padding: 20px;
+    color: white;
+}
+

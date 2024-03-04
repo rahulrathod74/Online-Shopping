@@ -1,0 +1,29 @@
+.slideshow-container{
+    position: relative;
+    display: flex;
+    
+}
+.prev{
+    position: absolute;
+    top: 100px;
+    left: 1.5px;
+    font-size: 36px;
+    background-color:white;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+a.next{
+    position: absolute;
+    top: 100px;
+    right: 1.5px;
+    font-size: 36px;
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    
+}
+.imgslide img{
+    width: 100%;
+}
